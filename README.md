@@ -1,5 +1,5 @@
 
-![image](https://github.com/2w9d8/Largechests/assets/104179839/abbf3220-b46e-4864-ab6a-0c14f65d2701)
+
 
 # Largechests
 
