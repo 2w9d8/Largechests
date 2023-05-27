@@ -1,0 +1,107 @@
+CharAt_:
+  LargeChests:
+    contents:
+      '0':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '1':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '2':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '3':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '4':
+        itemid: ENDER_CHEST
+        itemamount: 39
+        itemdata: 0
+      '5':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '6':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '7':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '8':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '9':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '17':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '18':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '26':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '27':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '35':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '36':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '44':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '45':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '46':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '47':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '48':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '49':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '50':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '51':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '52':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
+      '53':
+        itemid: ENDER_CHEST
+        itemamount: 1
+        itemdata: 0
